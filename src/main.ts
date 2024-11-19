@@ -108,8 +108,6 @@ ${chunk.changes
   .map((c) => `${c.ln ? c.ln : c.ln2} ${c.content}`)
   .join("\n")}
 \`\`\`
-
-請用繁體中文回答
 `;
 }
 
